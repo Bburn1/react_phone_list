@@ -1,0 +1,9 @@
+.contact-form{
+    max-width: 300px;
+}
+.contact-info{
+    padding: 2px;
+    margin: 10px;
+    border: 3px solid black;
+}
+input{border: 0px;}

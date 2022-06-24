@@ -1,0 +1,7 @@
+.contact-item{
+    display: flex;
+    border: 2px solid black;
+    margin: 3px;
+    justify-content: space-between;
+
+}

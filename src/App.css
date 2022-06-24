@@ -1,0 +1,26 @@
+
+.container{
+
+  padding-top: 100px;
+  display: flex;
+  justify-content: center;
+
+  
+}
+
+.main{
+  display: flex;
+  justify-content: space-between;
+  border: 2px solid black;
+}
+button{
+  font-size: 20px;
+  margin: 5px;
+}
+input{
+  font-size: 20px;
+}
+span{
+  color: red;
+  font-size: 20px;
+}
