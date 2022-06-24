@@ -5,7 +5,7 @@ import './ContactList.css';
 
 export class ContactList extends Component {
   render() {
-    console.log(this.contact);
+
     return (
       <div className='list-container'>
         <div className='item-container'>

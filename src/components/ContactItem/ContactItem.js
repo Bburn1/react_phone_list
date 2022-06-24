@@ -15,9 +15,7 @@ export class ContactItem extends Component {
 
 
   render() {
-
-    console.log(this.props.contact.firstName);
-    return (
+   return (
       <div className='contact-item'>
         <p className='content'
           onDoubleClick={this.onContactEdit}>
